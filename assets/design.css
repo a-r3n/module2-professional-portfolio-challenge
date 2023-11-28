@@ -1,0 +1,17 @@
+
+.display-inline {
+    display: inline;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+#row-reverse {
+    flex-direction: row-reverse;
+}
+
+.hero {
+ background-image: url(./Alec.JPG);   
+}
